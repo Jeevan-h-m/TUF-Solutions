@@ -1,6 +1,6 @@
-# [695. Second Largest Element](https://takeuforward.org/practice/dsa/second-largest-element?utm=codolio&ai=true)
+# [Second Largest Element](https://takeuforward.org/practice/dsa/second-largest-element?source=planly&plan=cs-fundamental&task=34762383&subject=array)
 
-![Difficulty: Unspecified](https://img.shields.io/badge/Difficulty-Unspecified-6b7280?style=for-the-badge)
+![Difficulty: Basic](https://img.shields.io/badge/Difficulty-Basic-22c55e?style=for-the-badge)
 
 ---
 

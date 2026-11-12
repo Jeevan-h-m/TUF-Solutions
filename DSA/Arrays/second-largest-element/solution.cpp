@@ -10,14 +10,16 @@ public:
                 slargest=largest;
                 largest=nums[i];
             }
-            else if(nums[i]<largest&&nums[i]>slargest){
+            else if(largest>nums[i]&&slargest<nums[i]){
                 slargest=nums[i];
             }
-            
-        } 
-        if(slargest==INT_MIN)
+        }
+        if(slargest==INT_MIN){
             return -1;
+        }
         return slargest;
+   
+       
       
     }
 };
