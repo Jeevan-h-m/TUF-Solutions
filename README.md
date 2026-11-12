@@ -21,7 +21,7 @@
 | 0003 | [Left Rotate Array by One](./DSA/Arrays/left-rotate-array-by-one) | [CPP](./DSA/Arrays/left-rotate-array-by-one/solution.cpp) | 🟢 Easy | `Arrays` | `2026-11-12` |
 | 0004 | [Linear Search](./DSA/Arrays/linear-search) | [CPP](./DSA/Arrays/linear-search/solution.cpp) | 🟢 Easy | `Arrays` | `2026-11-12` |
 | 0005 | [Maximum Consecutive Ones](./DSA/Arrays/maximum-consecutive-ones) | [CPP](./DSA/Arrays/maximum-consecutive-ones/solution.cpp) | 🟢 Easy | `Arrays` | `2026-11-12` |
-| 0006 | [248. Move Zeros to End](./DSA/General/move-zeros-to-end) | [CPP](./DSA/General/move-zeros-to-end/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-30` |
+| 0006 | [Move Zeros to End](./DSA/Arrays/move-zeros-to-end) | [CPP](./DSA/Arrays/move-zeros-to-end/solution.cpp) | 🟢 Easy | `Arrays` | `2026-11-12` |
 | 0007 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [CPP](./DSA/Arrays/second-largest-element/solution.cpp) | 🟢 Easy | `Arrays` | `2026-11-12` |
 | 0008 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-30` |
 
